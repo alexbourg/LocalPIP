@@ -1,0 +1,2 @@
+https://files.pythonhosted.org/packages/a9/b7/fcf4c98ae189ddb15ab6a8dc73b9697e73bdcfbde82ed421a14601602bc0/tensorflow-2.5.0rc2-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/ad/fc/fccaa149d7ccc165de01d62d19e5e9492e87ad23a7106f6dfe132800ca6f/tensorflow-2.4.1-cp38-cp38-win_amd64.whl
