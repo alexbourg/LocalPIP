@@ -1,8 +1,9 @@
-# Python offline packages installer
+# Python offline packages installer  
+
 This repo is compatible with Python 38, Python 39
 
 ## Installlation:
-Run localpip command in CMD
+Run `localpip` command in CMD
 
 | Package |Version |
 | :---:          |     :---:      |
