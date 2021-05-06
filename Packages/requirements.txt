@@ -32,6 +32,7 @@ numpydoc
 mpmath
 nltk
 MoviePy
+mysqlclient
 mypy
 html5lib
 opencv-python
