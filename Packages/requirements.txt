@@ -18,6 +18,7 @@ Bottleneck
 bs4
 convertdate
 Cython
+chart_studio
 Django
 Eli5
 FlashText
