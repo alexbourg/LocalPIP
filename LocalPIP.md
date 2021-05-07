@@ -12,6 +12,7 @@ Run `localpip` command in CMD
 | aiohttp | 3.7.4.post0 |
 | aiohttp-socks | 0.6.0 |
 | alabaster | 0.7.12 |
+| alembic | 1.6.2 |
 | altair | 4.1.0 |
 | altgraph | 0.17 |
 | appdirs | 1.4.4 |
@@ -51,6 +52,7 @@ Run `localpip` command in CMD
 | certifi | 2020.12.5 |
 | cffi | 1.14.5 |
 | chardet | 3.0.4 |
+| chart-studio | 1.1.0 |
 | click | 7.1.2 |
 | cloudpickle | 1.6.0 |
 | cmdstanpy | 0.9.5 |
@@ -63,6 +65,8 @@ Run `localpip` command in CMD
 | cycler | 0.10.0 |
 | cymem | 2.0.5 |
 | Cython | 0.29.23 |
+| dask | 2021.4.1 |
+| deap | 1.3.1 |
 | decorator | 4.4.2 |
 | decore | 0.0.1 |
 | defusedxml | 0.7.1 |
@@ -87,7 +91,12 @@ Run `localpip` command in CMD
 | flashtext | 2.7 |
 | Flask | 1.1.2 |
 | Flask-Cors | 3.0.10 |
+| Flask-Login | 0.5.0 |
+| Flask-Migrate | 2.7.0 |
+| Flask-SQLAlchemy | 2.5.1 |
+| Flask-WTF | 0.14.3 |
 | flatbuffers | 1.12 |
+| fsspec | 2021.4.0 |
 | future | 0.18.2 |
 | gast | 0.4.0 |
 | geographiclib | 1.50 |
@@ -101,7 +110,7 @@ Run `localpip` command in CMD
 | google-pasta | 0.2.0 |
 | googletransx | 2.4.2 |
 | graphviz | 0.16 |
-| greenlet | 1.0.0 |
+| greenlet | 1.1.0 |
 | grpcio | 1.34.1 |
 | h5py | 3.1.0 |
 | HeapDict | 1.0.1 |
@@ -144,8 +153,11 @@ Run `localpip` command in CMD
 | korean-lunar-calendar | 0.2.1 |
 | lazy-object-proxy | 1.6.0 |
 | lightgbm | 3.2.1 |
+| localpip | 0.0.11 |
+| locket | 0.2.1 |
 | LunarCalendar | 0.0.9 |
 | lxml | 4.6.3 |
+| Mako | 1.1.4 |
 | Markdown | 3.3.4 |
 | MarkupSafe | 1.1.1 |
 | marshmallow | 3.11.1 |
@@ -159,6 +171,7 @@ Run `localpip` command in CMD
 | murmurhash | 1.0.5 |
 | mypy | 0.812 |
 | mypy-extensions | 0.4.3 |
+| mysqlclient | 2.0.3 |
 | nbclient | 0.5.3 |
 | nbconvert | 6.0.7 |
 | nbformat | 5.1.3 |
@@ -166,6 +179,7 @@ Run `localpip` command in CMD
 | networkx | 2.5.1 |
 | nltk | 3.6.2 |
 | notebook | 6.3.0 |
+| ntlm-auth | 1.5.0 |
 | numpy | 1.19.5 |
 | numpydoc | 1.1.0 |
 | oauthlib | 3.1.0 |
@@ -179,6 +193,7 @@ Run `localpip` command in CMD
 | paramiko | 2.7.2 |
 | parse | 1.19.0 |
 | parso | 0.7.0 |
+| partd | 1.2.0 |
 | pathspec | 0.8.1 |
 | pathy | 0.4.0 |
 | patsy | 0.5.1 |
@@ -221,6 +236,7 @@ Run `localpip` command in CMD
 | pyls-black | 0.4.6 |
 | pyls-spyder | 0.4.0 |
 | PyMeeus | 0.5.11 |
+| pymssql | 2.2.1 |
 | PyNaCl | 1.4.0 |
 | pyparsing | 2.4.7 |
 | PyPDF2 | 1.26.0 |
@@ -242,6 +258,7 @@ Run `localpip` command in CMD
 | pytest | 6.2.3 |
 | python-box | 5.3.0 |
 | python-dateutil | 2.8.1 |
+| python-editor | 1.0.4 |
 | python-jsonrpc-server | 0.4.0 |
 | python-language-server | 0.36.2 |
 | python-lsp-jsonrpc | 1.0.0 |
@@ -268,6 +285,8 @@ Run `localpip` command in CMD
 | regex | 2021.4.4 |
 | requests | 2.25.1 |
 | requests-html | 0.10.0 |
+| requests-ntlm2 | 6.3.1 |
+| requests-ntlm3 | 6.1.3b1 |
 | requests-oauthlib | 1.3.0 |
 | requests-toolbelt | 0.9.1 |
 | restfly | 1.3.5 |
@@ -304,10 +323,11 @@ Run `localpip` command in CMD
 | sphinxcontrib-serializinghtml | 1.1.4 |
 | spyder | 5.0.1 |
 | spyder-kernels | 2.0.1 |
-| SQLAlchemy | 1.4.11 |
+| SQLAlchemy | 1.4.14 |
 | sqlparse | 0.4.1 |
 | srsly | 2.4.1 |
 | statsmodels | 0.12.2 |
+| stopit | 1.1.2 |
 | streamlit | 0.81.0 |
 | tabulate | 0.8.9 |
 | tenable-io | 1.13.1 |
@@ -331,6 +351,7 @@ Run `localpip` command in CMD
 | toml | 0.10.2 |
 | toolz | 0.11.1 |
 | tornado | 6.1 |
+| TPOT | 0.11.7 |
 | tqdm | 4.60.0 |
 | traitlets | 5.0.5 |
 | twint | 2.1.20 |
@@ -340,6 +361,7 @@ Run `localpip` command in CMD
 | tzlocal | 1.5.1 |
 | ujson | 4.0.2 |
 | unicodecsv | 0.14.1 |
+| update-checker | 0.18.0 |
 | urllib3 | 1.26.4 |
 | validators | 0.18.2 |
 | w3lib | 1.22.0 |
@@ -354,6 +376,8 @@ Run `localpip` command in CMD
 | widgetsnbextension | 3.5.1 |
 | win-unicode-console | 0.5 |
 | wrapt | 1.12.1 |
+| WTForms | 2.3.3 |
+| xgboost | 1.4.1 |
 | xlrd | 2.0.1 |
 | XlsxWriter | 1.3.9 |
 | xlwings | 0.23.0 |
