@@ -79,7 +79,7 @@ Sphinx
 streamlit
 xlrd==1.2.0
 textract
-six==1.15.0
+six==1.16.0
 xlrd==2.0.1
 tensorflow
 tenable_io
@@ -96,4 +96,7 @@ zict
 win_unicode_console
 qPython
 QuantLib
+dask
+TPOT
+xgboost
 pdfminer.six==20181108
