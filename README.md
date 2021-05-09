@@ -2,14 +2,8 @@
 
 This repo is compatible with Python 38, Python 39
 
-Requirements:
-1. Recommended installation path:
-   1. Python 3.9.x in `C:\Program64\Python\Python39` 
-   2. Python 3.8.x in `C:\Program64\Python\Python38`
-
-2. Download `localpip.zip` and extract it `to C:\Program64\Python\Python39\Scripts`
-
-3. Run localpip `command` in CMD
+## Installlation:
+Run `localpip` command in CMD
 
 | Package |Version |
 | :---:          |     :---:      |
