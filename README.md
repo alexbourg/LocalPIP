@@ -1,10 +1,54 @@
-# Python offline packages installer
+# Python offline packages installer  
 
 This repo is compatible with Python 38, Python 39
 
-## Installlation:
-Run `localpip` command in CMD
+<br>
 
+# LocalPIP:
+ LocalPIP makes the Python packages installation easy...  
+
+ It solves packages dependencies conflict issues and compiling errors.  
+
+ Internet access is required only for the first time of installation of LocalPIP.  
+
+ Once the LocalPIP repository is locally installed, you can install packages completely offline. 
+
+<br>
+
+## LocalPIP initialization:
+|Description|Command|
+|:----------------|:-------------------------------|
+|To install LocalPIP| `pip install localpip`|
+|To download the local repo for the first time|`localpip download`|
+|To update the local repo|`localpip update`|
+|About localpip |`localpip about`|
+<br>
+
+## Usage:
+`localpip <Action> <PackageName>`  
+
+`localpip  <Action> <PackageName1> <PackageName2>`
+
+|Description|Command|
+|:----------------|:-------------------------------|
+|Actions| install / uninstall / upgrade|
+|PackageName| one package / multiple package|  
+
+<br>
+
+## Packages management:
+|Description                          |Command|
+|:----------------|:-------------------------------|
+| To install one package|`localpip install pandas`            |
+| To install multiple packages|`localpip install pandas openpyxl Keras`|
+| To uninstall a package| `localpip uninstall pandas`|
+| To upgrade a package| `localpip upgrade pip`|
+| To uninstall a package | `localpip uninstall pandas`|
+| To check all installed packages | `localpip list`|
+
+<br>
+
+## Supported packages:
 | Package |Version |
 | :---:          |     :---:      |
 | absl-py | 0.12.0 |
