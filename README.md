@@ -1,11 +1,7 @@
-# Python offline packages installer  
+# Supported OS
+Windows x64  
 
 This repo is compatible with Python 38, Python 39
-
-<br>
-
-## Supported OS
-Windows x64
 
 <br>
 
