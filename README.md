@@ -37,7 +37,7 @@ This repo is compatible with Python 38, Python 39
 
 <br>
 
-## Packages management:
+## Packages management: use `localpip` or `lpip`
 |Description                          |Command|
 |:----------------|:-------------------------------|
 | To install one package|`localpip install pandas`            |
