@@ -44,6 +44,7 @@ This repo is compatible with Python 38, Python 39
 | To install multiple packages|`localpip install pandas openpyxl Keras`|
 | To uninstall a package| `localpip uninstall pandas`|
 | To upgrade a package| `localpip upgrade pip`|
+| To online upgrade a package| `localpip onlineupgrade pip`|
 | To uninstall a package | `localpip uninstall pandas`|
 | To check all installed packages | `localpip list`|
 
