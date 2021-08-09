@@ -1,7 +1,7 @@
 # Supported OS
 Windows x64  
 
-This repo is compatible with Python 38, Python 39
+This repo is compatible with Python 3+ ... preferably 3.8 or 3.9
 
 <br>
 
