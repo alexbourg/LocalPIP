@@ -40,13 +40,15 @@ This repo is compatible with Python 3+ ... preferably 3.8 or 3.9
 ## Packages management: use `localpip` or `lpip`
 |Description                          |Command|
 |:----------------|:-------------------------------|
-| To install one package|`localpip install pandas`            |
-| To install multiple packages|`localpip install pandas openpyxl Keras`|
-| To uninstall a package| `localpip uninstall pandas`|
-| To upgrade a package| `localpip upgrade pip`|
-| To online upgrade a package| `localpip onlineupgrade pip`|
-| To uninstall a package | `localpip uninstall pandas`|
-| To check all installed packages | `localpip list`|
+| To install one package|`lpip install pandas`            |
+| To install multiple packages|`lpip install pandas openpyxl Keras`|
+| To install requirement file|`lpip install req`|
+| To install a specific version|`lpip install pandas==1.3.1`|
+| To uninstall a package| `lpip uninstall pandas`|
+| To upgrade a package| `lpip upgrade pip`|
+| To online upgrade a package| `lpip onlineupgrade pip`|
+| To uninstall a package | `lpip uninstall pandas`|
+| To check all installed packages | `lpip list`|
 
 <br>
 
