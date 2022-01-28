@@ -1,2 +1,2 @@
-https://files.pythonhosted.org/packages/84/b5/8e3ef8335e8147cb74448bf31757b8b4eaac9f6b25c1e312a857ca4b4d08/tensorflow-2.5.0-cp39-cp39-win_amd64.whl
-https://files.pythonhosted.org/packages/0c/e5/3f2f615bea6fd6ffabcb59b29c8c7de8e7782a11a6f5d6a37b5d6634878e/tensorflow-2.5.0-cp38-cp38-win_amd64.whl
+https://files.pythonhosted.org/packages/9c/6f/1c4b47af8a8b208fc7fc427fd5913f07ed7cc8488ad99ce499536f7db03f/tensorflow-2.7.0-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/03/9e/63266f9324f3ac5ec9b2f0eaebec75872f424f79ca05442c605f9fa03c09/tensorflow-2.7.0-cp38-cp38-win_amd64.whl
