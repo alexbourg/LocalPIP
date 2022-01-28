@@ -19,16 +19,16 @@ This repo is compatible with Python 3+ ... preferably 3.8+
 ## LocalPIP initialization:
 |Description|Command|
 |:----------------|:-------------------------------|
-|To install LocalPIP| `pip install localpip`|
-|To download the local repo for the first time|`localpip download`|
-|To update the local repo|`localpip update`|
-|About localpip |`localpip about`|
+|To install lpip| `pip install lpip`|
+|To download the local repo for the first time|`lpip download`|
+|To update the local repo|`lpip update`|
+|About lpip |`lpip about`|
 <br>
 
 ## Usage:
-`localpip <Action> <PackageName>`  
+`lpip <Action> <PackageName>`  
 
-`localpip  <Action> <PackageName1> <PackageName2>`
+`lpip  <Action> <PackageName1> <PackageName2>`
 
 |Description|Command|
 |:----------------|:-------------------------------|
