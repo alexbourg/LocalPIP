@@ -4,8 +4,6 @@ lpip
 `User list <http://groups.google.com/group/LocalPIP>`_ |
 `GitHub <https://github.com/alexbourg/LocalPIP>`_ |
 `PyPI <https://pypi.org/pypi/lpip/>`_ |
-User IRC: #pypa |
-Dev IRC: #pypa-dev
 
 This library is the reference implementation of the Python wheel packaging
 standard, as defined in `PEP 427`_.
