@@ -1,4 +1,4 @@
-wheel
+lpip
 =====
 
 `User list <http://groups.google.com/group/LocalPIP>`_ |
